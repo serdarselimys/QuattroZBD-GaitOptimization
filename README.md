@@ -1,3 +1,5 @@
+![Screenshot](1.png)
+
 # Quattro ZBD – Gait Optimization
 
 Find stable walking parameters for the **Quattro ZBD** 3D-printed quadruped robot dog in simulation ([PyBullet](https://pybullet.org)), review them visually, and drive the simulated robot with a gamepad or keyboard before putting anything on the real hardware.
