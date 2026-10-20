@@ -1,0 +1,9 @@
+pybullet>=3.2.5
+numpy
+pandas
+optuna
+cmaes
+tqdm
+pygame>=2.0
+tensorboard
+tensorboardX
